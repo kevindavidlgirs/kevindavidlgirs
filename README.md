@@ -22,7 +22,7 @@
   
 <div> 
 
-  ![github contribution grid snake animation](https://github.com/kevindavidlgirs/kevingirs/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![github contribution grid snake animation](https://github.com/kevindavidlgirs/kevindavidlgirs/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   
 </div>
 
